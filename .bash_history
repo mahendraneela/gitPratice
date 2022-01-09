@@ -12,3 +12,7 @@ clear
 ls 
 ls -l
 vi addTest
+clear
+ls
+git init
+sudo -s
